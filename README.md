@@ -1,4 +1,4 @@
-# golang-rest-api
+# gokit-rest-api
 
 [![GoDoc](https://img.shields.io/static/v1?label=godoc&message=reference&color=blue)](https://github.com/go-kit/kit)
 
